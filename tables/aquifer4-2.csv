@@ -1,0 +1,5 @@
+Predictor,Coefficient,Standard Error,P-Value
+Temperature_Siena_Poggio_al_Vento,-0.503,0.11,0.0
+Temperature_Pentolina,0.332,0.159,0.038
+Volume_Pozzo_1,0.041,0.004,0.0
+Volume_Pozzo_4,0.011,0.002,0.0

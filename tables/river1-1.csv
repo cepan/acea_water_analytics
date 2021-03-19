@@ -1,0 +1,7 @@
+Predictor,Coefficient,Standard Error,P-Value
+Rainfall_Le_Croci,-0.017,0.006,0.008
+Rainfall_Cavallina,0.013,0.006,0.033
+Rainfall_Mangona,-0.016,0.007,0.018
+Rainfall_S_Piero,0.008,0.003,0.016
+Rainfall_Vernio,0.045,0.003,0.0
+Rainfall_Incisa,0.057,0.001,0.0

@@ -1,0 +1,5 @@
+Predictor,Coefficient,Standard Error,P-Value
+Volume_Pozzo_1,5.02,1.077,0.0
+Volume_Pozzo_2,-5.032,1.084,0.0
+Volume_Pozzo_5+6,-0.002,0.001,0.04
+Temperature_Monteporzio,-0.016,0.004,0.0

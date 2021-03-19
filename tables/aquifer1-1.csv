@@ -1,0 +1,15 @@
+Predictor,Coefficient,Standard Error,P-Value
+Rainfall_Gallicano,3.046,0.202,0.0
+Rainfall_Monte_Serra,-0.011,0.005,0.042
+Rainfall_Orentano,0.021,0.005,0.0
+Rainfall_Piaggione,-0.01,0.004,0.016
+Rainfall_Calavorno,-0.012,0.004,0.002
+Rainfall_Croce_Arcana,-0.006,0.003,0.016
+Temperature_Ponte_a_Moriano,0.245,0.03,0.0
+Temperature_Lucca_Orto_Botanico,-0.041,0.009,0.0
+Volume_POL,-0.233,0.031,0.0
+Volume_CC1,0.026,0.003,0.0
+Volume_CC2,0.0,0.0,0.0
+Volume_CSA,0.0,0.0,0.041
+Volume_CSAL,0.0,0.0,0.0
+Hydrometry_Piaggione,0.001,0.0,0.0

@@ -1,0 +1,5 @@
+Predictor,Coefficient,Standard Error,P-Value
+Rainfall_Bastia_Umbra,-3.395,0.081,0.0
+Temperature_Petrignano,-0.258,0.014,0.0
+Volume_C10_Petrignano,0.206,0.014,0.0
+Hydrometry_Fiume_Chiascio_Petrignano,0.001,0.0,0.0

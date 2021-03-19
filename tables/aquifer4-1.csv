@@ -1,0 +1,7 @@
+Predictor,Coefficient,Standard Error,P-Value
+Temperature_Siena_Poggio_al_Vento,-0.308,0.049,0.0
+Temperature_Mensano,0.113,0.028,0.0
+Temperature_Pentolina,0.148,0.071,0.037
+Volume_Pozzo_1,0.024,0.002,0.0
+Volume_Pozzo_3,0.005,0.002,0.001
+Volume_Pozzo_4,0.014,0.001,0.0

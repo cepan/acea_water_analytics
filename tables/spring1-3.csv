@@ -1,0 +1,5 @@
+Predictor,Coefficient,Standard Error,P-Value
+Rainfall_Vetta_Amiata,5.044,0.299,0.0
+Depth_to_Groundwater_S_Fiora_11bis,-0.603,0.047,0.0
+Depth_to_Groundwater_David_Lazzaretti,-0.193,0.071,0.007
+Temperature_S_Fiora,0.27,0.093,0.004
